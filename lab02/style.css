@@ -1,11 +1,16 @@
 body{
-    background-color: bisque;
+    background-color: blanchedalmond;
 }
 
 h1{
     color: blueviolet;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    border-color: bisque;
+    /* border-color:darkkhaki; */
+}
+
+h2{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
