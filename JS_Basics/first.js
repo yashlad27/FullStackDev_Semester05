@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = "My first JS";
+//document.getElementById("demo").innerHTML = "My first JS";
