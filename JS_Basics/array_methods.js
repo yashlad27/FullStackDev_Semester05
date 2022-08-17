@@ -16,3 +16,4 @@ console.log(myArr);
 myArr.pop();
 console.log(myArr);
 
+console.log("#############")
