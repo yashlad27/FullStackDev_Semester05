@@ -1,0 +1,22 @@
+{
+  "name": "fullstackdev_semester05",
+  "version": "1.0.0",
+  "description": "Lab practicals 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashlad27/FullStackDev_Semester05.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashlad27/FullStackDev_Semester05/issues"
+  },
+  "homepage": "https://github.com/yashlad27/FullStackDev_Semester05#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
