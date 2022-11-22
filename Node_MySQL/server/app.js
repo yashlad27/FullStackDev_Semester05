@@ -10,7 +10,6 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended : false }));
 
-
 // create
 app.post('/insert', (request, response) => {
     const { name } = request.body;
